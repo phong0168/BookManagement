@@ -5,7 +5,7 @@ Chức năng:
   + Sử dụng CRUD để thực hiện các chức năng nghiệp vụ
   + Xây dựng giao diện và chức năng dành riêng cho ADMIN và USER
   + Dùng Spring Security để thực hiện chức năng đăng nhập và bảo mật các endpoint
-  + Dùng RESTful API để phân quyền
+  + Phân quyền REST API
   + Import thông tin danh mục lớp học bằng API
   + Kết hợp API và thư viện Chart.js để thống kê doanh thu sản phẩm
 # Database
