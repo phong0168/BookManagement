@@ -1,6 +1,6 @@
 # BookManagenment
 Mô tả: Website quản lý cung cấp giáo trình khoa Công nghệ thông tin trường Đại học
-Ngôn ngữ: Java, Html, Bootstrap, CSS, JavaScript, MySQL, Spring Framework, Thymeleaf.
+Ngôn ngữ: Java, Html, Bootstrap, CSS, JavaScript, MySQL, Spring Framework, Spring Boot, Thymeleaf.
 Chức năng:
   + Sử dụng CRUD để thực hiện các chức năng nghiệp vụ
   + Xây dựng giao diện và chức năng dành riêng cho ADMIN và USER
