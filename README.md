@@ -8,6 +8,4 @@ Chức năng:
   + Phân quyền REST API
   + Import thông tin danh mục lớp học bằng API
   + Kết hợp API và thư viện Chart.js để thống kê doanh thu sản phẩm
-# Database
-![image](https://github.com/phong0168/BookManagement/assets/104688354/1358f44d-1f83-4ffc-8daf-d5c704fa73f4)
 
